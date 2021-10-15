@@ -28,5 +28,5 @@ material_instance.set_editor_property('parent', material_b)
 
 1. Clone repository
 2. Open project
-3. (A) Right-click material instance "MI" and under *scripted actions* select *Change Parents*
-3. (B) Right-click the `example_crash` Python script in the content browser and select *Run*
+3. * **Blueprint:** Right-click material instance "MI" and under *scripted actions* select *Change Parents*
+   * **Python:** Right-click the `example_crash` Python script in the content browser and select *Run*
